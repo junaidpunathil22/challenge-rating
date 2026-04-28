@@ -1,0 +1,47 @@
+body{
+    background-color: #0f0f0f;
+    font-family: Arial, sans-serif;
+    align-items: center;                                                                              
+    place-items: center;
+}
+.submit-cart{
+    width: 300px;
+    height: 300px;
+    background-color: #222938;
+    border-radius: 10px;
+    place-items: center;
+    margin-top: 100px;
+   
+}
+img{
+    margin-top: 25px;
+    width: 120px;
+    height: 80px;
+}
+.message{
+    width: 150px;
+    height:25px;
+    background-color: #363347;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.msg{
+    color: rgb(241, 164, 20);
+    font-size: 12px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+h2{
+    color: seashell;
+    margin-top: 25px;
+}
+.note{
+    color: rgb(161, 160, 159);
+    font-size: 12px;
+    text-align: center;
+    margin-top: 5px;
+}
